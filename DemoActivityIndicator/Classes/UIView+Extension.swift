@@ -136,7 +136,7 @@ public extension UIView {
             label.translatesAutoresizingMaskIntoConstraints = false
             label.font = UIFont.systemFont(ofSize: 30)
             label.text = withMessage
-            label.numberOfLines = 2
+            label.numberOfLines = 3
             label.textAlignment = .center
             label.lineBreakMode = .byWordWrapping
             //label.textColor = UIColor.white
