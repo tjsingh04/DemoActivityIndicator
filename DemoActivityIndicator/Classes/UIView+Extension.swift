@@ -35,7 +35,7 @@ public extension UIView {
             objc_setAssociatedObject(self, &tagValueAssociationKey, newValue, objc_AssociationPolicy.OBJC_ASSOCIATION_ASSIGN)
         }
     }
-    //someChanges
+    //someChanges more change
     /// function that determines if activity indicator is currently on the screen or not
     ///
     /// - Returns: `true` if activity indicator is present `false` otherwsise
